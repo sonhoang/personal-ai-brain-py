@@ -1,0 +1,42 @@
+LAB REPORT LR-0931: EFFECT OF CURING TEMPERATURE ON CONCRETE COMPRESSIVE STRENGTH
+
+SYNTHETIC SAMPLE DOCUMENT. Written for the personal-ai-brain evaluation set.
+The laboratory, project and results are invented.
+
+Purpose
+
+The bridge deck contractor asked whether the C30/37 mix can be poured in late autumn
+without heated enclosures. We cast cylinders from one batch and cured them at three
+temperatures to measure how curing temperature changes early and 28-day strength.
+
+Method
+
+Thirty-six cylinders (150 mm x 300 mm) were cast from a single batch with a
+water-cement ratio of 0.45. Twelve were cured at 5 C, twelve at 12 C and twelve at
+20 C, all at 95% relative humidity. Four cylinders from each group were crushed at
+3 days, 7 days and 28 days according to EN 12390-3.
+
+Results
+
+Mean compressive strength in MPa:
+
+At 20 C: 3 days 21.4, 7 days 31.0, 28 days 44.2.
+At 12 C: 3 days 15.2, 7 days 25.8, 28 days 42.9.
+At 5 C: 3 days 8.1, 7 days 17.6, 28 days 38.5.
+
+The 5 C group reached only 57% of the 7-day strength of the 20 C group. At 28 days the
+gap narrowed to 13%. All groups passed the 37 MPa characteristic cube strength
+requirement at 28 days, but the 5 C group passed with a margin of only 1.5 MPa.
+
+Discussion
+
+Low curing temperature slows hydration, which mostly delays strength rather than
+reducing it. The practical risk is early: formwork cannot be stripped and the deck cannot
+take construction loads until the concrete reaches 20 MPa, which took about 3 days at
+20 C but about 9 days at 5 C.
+
+Recommendation
+
+Pours with a forecast daily mean below 8 C should use insulated blankets for the first
+7 days, or an accelerating admixture approved by the designer. Stripping should be based
+on maturity sensors or field-cured cylinders, not on a fixed number of days.

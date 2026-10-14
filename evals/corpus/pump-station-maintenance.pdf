@@ -1,0 +1,142 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 4 /Kids [4 0 R 6 0 R 8 0 R 10 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 857 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+56 790 Td
+(Pump Station Maintenance Manual, Stations PS-3 and PS-4) '
+() '
+(SYNTHETIC SAMPLE DOCUMENT. Written for the personal-ai-brain evaluation set. The utility,) '
+(equipment and limits are invented.) '
+() '
+(1. Scope) '
+() '
+(This manual covers routine maintenance of the four centrifugal pumps at stations PS-3 and) '
+(PS-4 of the river intake. Each pump is driven by a 250 kW induction motor at 1,480 rpm and) '
+(moves up to 1,100 cubic metres of raw water per hour.) '
+() '
+(Maintenance is planned in three tiers: weekly walk-round inspections by the operator,) '
+(monthly condition monitoring by the reliability technician, and an annual overhaul by the) '
+(mechanical contractor. Chapter 2 sets the vibration limits, chapter 3 the bearing) '
+(lubrication schedule, and chapter 4 the shutdown and isolation procedure.) '
+() '
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 838 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+56 790 Td
+(2. Vibration monitoring) '
+() '
+(Vibration is measured on both motor bearings and both pump bearings as RMS velocity in mm/s,) '
+(in the 10 Hz to 1 kHz band, following ISO 10816-3 for machines on rigid foundations.) '
+() '
+(Limits for these pumps:) '
+() '
+(Below 2.8 mm/s - good condition, no action.) '
+() '
+(2.8 to 4.5 mm/s - acceptable, record the trend and check monthly.) '
+() '
+(4.5 to 7.1 mm/s - alert: increase monitoring to weekly and plan a repair.) '
+() '
+(Above 7.1 mm/s - danger: stop the pump within 24 hours and inspect.) '
+() '
+(A rise of more than 25% between two monthly readings is treated as an alert even when the) '
+(absolute value is still in the acceptable band. Most alerts on these pumps have been caused) '
+(by bearing wear or by impeller imbalance after debris strikes.) '
+() '
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 756 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+56 790 Td
+(3. Bearing lubrication) '
+() '
+(Pump bearings are grease-lubricated rolling element bearings. Use a lithium-complex grease) '
+(of NLGI grade 2. Do not mix with polyurea greases.) '
+() '
+(Regrease the pump bearings every 2,000 running hours with 30 grams per bearing. Regrease the) '
+(motor bearings every 4,000 running hours with 20 grams per bearing. Add grease slowly with) '
+(the pump running and stop when the bearing temperature starts to rise.) '
+() '
+(Bearing temperature should stay below 80 C. A temperature above 90 C, or a rise of 15 C) '
+(above the normal running value, means the pump must be stopped and the bearing inspected.) '
+(Over-greasing is a common cause of high temperature after maintenance.) '
+() '
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 706 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+56 790 Td
+(4. Shutdown and isolation) '
+() '
+(Before any work inside the pump casing, the pump must be isolated under the permit to work) '
+(system. Close the suction and discharge valves, lock both with personal padlocks, and lock) '
+(out the motor isolator at the motor control centre.) '
+() '
+(Drain the casing through the drain valve and confirm zero pressure on the casing gauge) '
+(before opening any flange. Two people must be present for confined-space entry into the) '
+(suction well.) '
+() '
+(After work, the permit holder removes the locks, the operator primes the pump, and the pump) '
+(runs for 30 minutes under observation before it returns to automatic control.) '
+() '
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000231 00000 n 
+0000000357 00000 n 
+0000001265 00000 n 
+0000001391 00000 n 
+0000002280 00000 n 
+0000002406 00000 n 
+0000003213 00000 n 
+0000003341 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+4099
+%%EOF
