@@ -1,0 +1,20 @@
+{"id": "q01", "question": "How long could customers not place orders during the orders database incident?", "expected_doc": "incident-2024-017-database-failover.md"}
+{"id": "q02", "question": "Why did Patroni refuse to promote the standby database?", "expected_doc": "incident-2024-017-database-failover.md"}
+{"id": "q03", "question": "What filled up the disk on the primary database server?", "expected_doc": "incident-2024-017-database-failover.md"}
+{"id": "q04", "question": "What new disk usage alert thresholds were agreed after the outage?", "expected_doc": "incident-2024-017-database-failover.md"}
+{"id": "q05", "question": "How many requests per minute is a standard plan API key allowed?", "expected_doc": "api-rate-limiting-design.md"}
+{"id": "q06", "question": "What happens to API traffic if Redis goes down?", "expected_doc": "api-rate-limiting-design.md"}
+{"id": "q07", "question": "Why was a fixed window counter rejected for throttling clients?", "expected_doc": "api-rate-limiting-design.md"}
+{"id": "q08", "question": "What 28-day strength did cylinders cured at 5 degrees reach?", "expected_doc": "concrete-curing-lab-report.txt"}
+{"id": "q09", "question": "When is it safe to strip formwork on a cold-weather pour?", "expected_doc": "concrete-curing-lab-report.txt"}
+{"id": "q10", "question": "What water-cement ratio was used in the curing temperature tests?", "expected_doc": "concrete-curing-lab-report.txt"}
+{"id": "q11", "question": "How much traffic does a canary get and for how long?", "expected_doc": "deploy-runbook.md"}
+{"id": "q12", "question": "What command rolls back the checkout service?", "expected_doc": "deploy-runbook.md", "must_not_contain": "All systems nominal"}
+{"id": "q13", "question": "Can I ship a release on a Friday?", "expected_doc": "deploy-runbook.md"}
+{"id": "q14", "question": "At what vibration level must a pump be stopped?", "expected_doc": "pump-station-maintenance.pdf", "expected_page": 2}
+{"id": "q15", "question": "How often should the pump bearings be regreased and with how much grease?", "expected_doc": "pump-station-maintenance.pdf", "expected_page": 3}
+{"id": "q16", "question": "What must be done before opening a flange on the pump casing?", "expected_doc": "pump-station-maintenance.pdf", "expected_page": 4}
+{"id": "q17", "question": "Which service missed its availability target in the third quarter?", "expected_doc": "q3-2024-reliability-review.md"}
+{"id": "q18", "question": "What caused the push notification outage on 4 August?", "expected_doc": "q3-2024-reliability-review.md"}
+{"id": "q19", "question": "What is the company's parental leave policy?", "expected_doc": null}
+{"id": "q20", "question": "Which Kubernetes version does the checkout service run on?", "expected_doc": null}
